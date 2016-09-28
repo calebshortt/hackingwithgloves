@@ -1,6 +1,6 @@
 # hackingwithgloves
 
-This is a repository of rediculous images used to depict hackers. For example, the lone hacker working tirelessly with sunglasses, hoodie, and mask ... all in a dark, ominous, room.
+This is a repository of ridiculous images used to depict hackers. For example, the lone hacker working tirelessly with sunglasses, hoodie, and mask ... all in a dark, ominous, room.
 
 Each image must be sourced and (if it is reasonably small) added to this repo.
 
